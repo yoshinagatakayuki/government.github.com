@@ -1,6 +1,6 @@
 # global settings
 title: "Make government better, together."
-description: "Stories of open data, open source, and open collaboration"
+description: "Stories of open source, open data, and open collaboration"
 permalink: "/stories/:title"
 url: http://government.github.com
 relative_permalinks: false
